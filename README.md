@@ -59,5 +59,6 @@ const grid = new AgileGrid(document.getElementById('miDiv'), {
     pageSize: 5,          // Tamaño de página
     destinoGrid: otraGrid  // Grid secundaria opcional
 });
+```
 
-
+Blog [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
