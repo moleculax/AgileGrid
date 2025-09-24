@@ -1,6 +1,6 @@
 {
 "name": "agile-grid",
-"version": "1.0.0",
+"version": "1.0.1",
 "description": "AgileGrid: Grid genérica y portable para React, Angular o vanilla JS",
 "main": "src/js/AgileGrid.js",
 "scripts": {
