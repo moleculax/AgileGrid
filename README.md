@@ -4,9 +4,7 @@
 
 **AgileGrid** es un proyecto de grilla dinámica y modular en JavaScript puro, inspirado en la filosofía de UI-Grid de AngularJS, pero **sin depender de frameworks**. Permite mostrar, filtrar, paginar y manipular datos en tablas de manera sencilla, con soporte para acciones personalizadas y grids secundarias.
 
-## Autor
 
-**Emilio J. Gomez**
 
 ## Características
 
