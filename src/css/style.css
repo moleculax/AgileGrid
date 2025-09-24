@@ -1,0 +1,20 @@
+body { font-family: sans-serif; }
+.grid { border-collapse: collapse; width: 100%; margin-bottom: 10px; }
+.grid th, .grid td { border: 1px solid #ddd; padding: 8px; }
+.grid th { background: #2e5090; color: white; cursor: pointer; }
+.grid tr:nth-child(even) { background: #f2f2f2; }
+.grid tr:hover { background: #ddd; }
+.celda_BOLD { font-weight: bold; }
+.celda_CENT { text-align: center; }
+.selectedRow { background-color: #fffa9d !important; }
+.paginador { display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 10px; }
+.paginador button, .btn-guardar, .btn-push-multi, .btn-push { padding: 5px 10px; border: 1px solid #2e5090; background: #2e5090; color: white; border-radius: 4px; cursor: pointer; }
+.paginador button:disabled, .btn-guardar:disabled, .btn-push-multi:disabled { background: #ccc; cursor: not-allowed; }
+input.cell-input, input.filter-input { width: 100%; border: none; background: transparent; text-align: inherit; }
+input.cell-input:focus { outline: 1px solid #2e5090; background: #fffacd; }
+input.filter-input { padding: 2px; border: 1px solid #ccc; border-radius: 4px; }
+.btn-accion { padding: 3px 8px; margin: 0 2px; border: none; cursor: pointer; border-radius: 4px; color: white; }
+.btn-delete { background: #f10833; }
+.btn-pdf { background: #007bff; }
+.btn-copy { background: #28a745; }
+.botonera { margin-bottom: 10px; display: flex; gap: 10px; }

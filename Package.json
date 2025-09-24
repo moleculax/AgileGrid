@@ -1,0 +1,12 @@
+{
+"name": "agile-grid",
+"version": "1.0.0",
+"description": "AgileGrid: Grid genérica y portable para React, Angular o vanilla JS",
+"main": "src/js/AgileGrid.js",
+"scripts": {
+"test": "echo "Error: no test specified" && exit 1"
+},
+"keywords": \["grid", "react", "angular", "vanilla", "agilegrid", "datatable"],
+"author": "Emilio J. Gomez",
+"license": "MIT"
+}
