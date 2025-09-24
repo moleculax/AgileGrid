@@ -1,0 +1,6 @@
+Ejecute servidor virtual en caso de no tener apache:
+
+python3 -m http.server 2020
+
+Luego
+http://localhost:2020
