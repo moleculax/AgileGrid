@@ -46,17 +46,13 @@ Solo muestra filas copiadas desde la principal. Se pueden eliminar filas y guard
 
 Puedes instanciar la clase `AgileGrid` en cualquier proyecto, pasando:
 
-```javascript
-import AgileGrid from '.src/js//AgileGrid.js';
+```
+Ejecute servidor virtual en caso de no tener apache:
 
-const grid = new AgileGrid(document.getElementById('miDiv'), {
-    data: miArrayDeDatos,
-    columnDefs: miColumnDefs,
-    acciones: true,       // Habilita botones por fila
-    showPaginator: true,  // Mostrar paginador
-    pageSize: 5,          // Tamaño de página
-    destinoGrid: otraGrid  // Grid secundaria opcional
-});
+python3 -m http.server 2020
+
+Luego
+http://localhost:2020
 ```
 
 Blog [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
