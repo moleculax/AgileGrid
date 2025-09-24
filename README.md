@@ -62,3 +62,5 @@ const grid = new AgileGrid(document.getElementById('miDiv'), {
 ```
 
 Blog [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
+
+**Cumana Sucre - Venezuela**
