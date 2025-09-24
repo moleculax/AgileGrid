@@ -1,4 +1,9 @@
 
+/* Autor: Emilio J. Gomez
+  @moleculax
+  Cumana Sucre - Venezuela
+*/
+
 class Grid {
   constructor(container, options) {
     this.container = container;
