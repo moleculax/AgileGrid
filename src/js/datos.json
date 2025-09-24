@@ -1,0 +1,7 @@
+[
+  { "ID":101, "Cliente":"Juan Pérez", "Ciudad":"Cumana", "selectedRow": false },
+  { "ID":102, "Cliente":"María López", "Ciudad":"Carupano", "selectedRow": false },
+  { "ID":103, "Cliente":"Carlos García", "Ciudad":"Ciudad Bolivar", "selectedRow": false },
+  { "ID":104, "Cliente":"Ana Torres", "Ciudad":"Maturin", "selectedRow": false },
+  { "ID":105, "Cliente":"Luis Fernández", "Ciudad":"Porlamar", "selectedRow": false }
+]
