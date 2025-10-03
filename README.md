@@ -57,8 +57,9 @@ Luego
 http://localhost:2020
 ```
 
-Blog [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
-```
+
+```text
 Emilio JGomez
 Cumana Sucre - Venezuela
 ```
+ [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
