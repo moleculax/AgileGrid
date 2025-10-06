@@ -62,4 +62,9 @@ http://localhost:2020
 Emilio JGomez
 Cumana Sucre - Venezuela
 ```
- [http://moleculax.blogspot.com](https://moleculax.blogspot.com) 
+###  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moleculax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/moleculax)   [![Build with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)]() [![Status](https://img.shields.io/badge/status-en%20evolución-8A2BE2)]()  [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white)](https://www.debian.org/) 
+
+
+ “Cada sistema tiene errores. Cada error, una historia. Cada historia, una evolución.”
+###
